@@ -1,1 +1,0 @@
-# pgAdmin3-redux
